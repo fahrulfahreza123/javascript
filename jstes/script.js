@@ -1,4 +1,4 @@
-//prototyle membuat objek JS
+//prototype membuat objek JS berkelompok
 
 //     let siswa1 = {
 //         nama: 'Fahrul',
